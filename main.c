@@ -6,6 +6,8 @@
 int main(int argc, char *argv[]) {
 	
 	int a, b;
+	
+	printf("Hello, Electronics!\n");
 	a = 10;
 	b = 20;
 	
